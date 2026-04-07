@@ -28,7 +28,11 @@ Programming Languages:
 - Swift
 - Dart
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonhouse1&show_icons=true&theme=tokyonight&count_private=true)
+### Codewars
+
+<a href="https://www.codewars.com/users/jasonhouse1">
+  <img src="https://www.codewars.com/users/jasonhouse1/badges/large" alt="Codewars Badge"/>
+</a>
 
 ---
 
