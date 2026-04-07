@@ -1,4 +1,4 @@
-# Hi there, I'm Mr.C 👋
+<!-- # Hi there, I'm Mr.C 👋 -->
 
 ### About Me
 I am a student passionate about full-stack development and blockchain technologies, with a strong interest in cybersecurity.
