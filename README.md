@@ -1,5 +1,5 @@
 <!-- # Hi there, I'm Mr.C 👋 -->
-<img src="assets/banner.png" width="100%" />
+<img src="assets/banner.png" width="300%" />
 ### About Me
 I am a student passionate about full-stack development and blockchain technologies, with a strong interest in cybersecurity.
 
